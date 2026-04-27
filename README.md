@@ -13,7 +13,7 @@ Este proyecto es una aplicación de gestión de presupuesto personal (DApp) cons
 
 ## 2. Estructura del Programa (Backend - Rust)
 
-El programa se divide en instrucciones clave dentro del archivo `lib.rs`:
+El programa se divide en instrucciones clave dentro del archivo `gastos.rs`:
 
 * **inicializar_wallet**: Crea la cuenta de almacenamiento en la blockchain y asigna el nombre del usuario.
 * **agregar_gasto**: Empuja un nuevo objeto `Gasto` al vector de la cuenta.
