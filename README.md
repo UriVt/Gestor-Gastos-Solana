@@ -1,4 +1,4 @@
-# Gestor-Gastos-Solana
+# Gestor Gastos-Solana
 # Student Budget Tracker - Solana Program
 
 ## 1. Descripción del Proyecto
